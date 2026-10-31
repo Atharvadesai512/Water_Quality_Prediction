@@ -1,0 +1,4 @@
+{
+    "threshold": 0.65,
+    "unsafe_recall_target": 0.95
+}
